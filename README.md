@@ -1,12 +1,14 @@
-<a href="#"><img width="100%" height="auto" src="abc.gif" height="100px"/></a>
+##
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharva Parkhe</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India. I write short and scalable code. </h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋🏻 About Me
 
-- 🔭 I’m currently working on **[Chat Application](https://github.com/atharvparkhe/chat-application)**
+- 🔭 I’m currently working on **[Chat Application](https://github.com/atharvparkhe/chat-application).**
 
 - 🌱 I’m currently learning **Machine Learning.**
 
@@ -16,7 +18,7 @@
 
 - 📫 How to reach me **patharv777@gmail.com**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools I use
 
 <p align="center"> 
     <a href="https://www.python.org" target="blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
@@ -34,3 +36,15 @@
     <a href="https://developer.android.com/docs" target="blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/> </a>
     <a href="https://developer.apple.com/documentation/" target="blank"> <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/> </a>
 </p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href = "https://www.linkedin.com/in/atharva-parkhe-3283b2202/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/atharvparkhe/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://discord.gg/8WNC43Xsfc"><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a>
+<a href = "https://www.instagram.com/atharvparkhe/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UChimOJO64hOqtE7HCgtiIig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
+
+##
