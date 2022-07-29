@@ -39,12 +39,13 @@
 
 ## 🤝 Let's Connect
 
-<p align="center">
-<a href = "https://www.linkedin.com/in/atharva-parkhe-3283b2202/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/atharvparkhe/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://discord.gg/8WNC43Xsfc"><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a>
-<a href = "https://www.instagram.com/atharvparkhe/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UChimOJO64hOqtE7HCgtiIig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-parkhe-3283b2202/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/atharvparkhe/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/atharvparkhe/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atharvparkhe/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/patharv777/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChimOJO64hOqtE7HCgtiIig)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8WNC43Xsfc)
+
 
 ##
